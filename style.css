@@ -39,11 +39,11 @@
   }
 
 .subtitle{
-  max-width: 300px;
+  max-width: 200px;
   padding: 100 100;
   text-align: center;
   margin: 0 auto;
-  color: teal;
+  color: rgb(0, 4, 4);
 
 
 }
