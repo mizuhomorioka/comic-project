@@ -12,5 +12,5 @@ I used [Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_comic_seri
 I could use very basic of scraping I learned in the class in practice. Also, I learned how to make scrolltelling with ai2html.
 
 ## Things I'd like to do
-I used only Wikipedia this time, so in the next (and last) project, I'd like to scrape or analyze sourses I can rely on. Also, I'd like to use Imagemagic or animation skill.
+I used only Wikipedia this time, so in the next (and last) project, I'd like to scrape and analyze sourses I can rely on. If possible, I want to use hiddn API. Also, I'd like to use Imagemagic or animation skill.
 
