@@ -44,7 +44,7 @@
   text-align: center;
   margin: 0 auto;
   color: rgb(0, 4, 4);
-
+  -webkit-text-stroke: 1px #FFF;
 
 }
 
